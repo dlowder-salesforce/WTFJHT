@@ -1,53 +1,28 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- * @flow
- */
+// @flow
+import React, { Component } from "react";
+import { AppRegistry } from "react-native";
+import styled from "styled-components/native";
 
-import React, { Component } from 'react';
-import {
-  AppRegistry,
-  StyleSheet,
-  Text,
-  View
-} from 'react-native';
+const View = styled.View`
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+`;
 
-export default class WTFJHT extends Component {
+const Text = styled.Text`
+  font-size: 96px;
+  color: #323232;
+`;
+
+export default class App extends Component {
   render() {
     return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
+      <View>
+        <Text>#WTFJHT!?</Text>
       </View>
     );
   }
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
-});
-
-AppRegistry.registerComponent('WTFJHT', () => WTFJHT);
+AppRegistry.registerComponent("WTFJHT", () => App);
