@@ -34,8 +34,24 @@
 		2D02E4C81E0B4AEC006451C7 /* libRCTWebSocket-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3E991DF850E9000B6D8A /* libRCTWebSocket-tvOS.a */; };
 		2D02E4C91E0B4AEC006451C7 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* WTFJHTTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* WTFJHTTests.m */; };
+		3E562FF51F7DE30500C6413D /* CircularPro-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66536AF7F0E44878B4478B5D /* CircularPro-Black.ttf */; };
+		3E562FF61F7DE30500C6413D /* CircularPro-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70504D8291FD4BA3B9076B6D /* CircularPro-Bold.ttf */; };
+		3E562FF71F7DE30500C6413D /* CircularPro-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 003F8CA022BD4C009A744E5C /* CircularPro-Book.ttf */; };
+		3E562FF81F7DE30500C6413D /* CircularPro-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B21A74B15D04EE5BF03AA6F /* CircularPro-Medium.ttf */; };
+		3E5630161F7DE30500C6413D /* CircularPro-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66536AF7F0E44878B4478B5D /* CircularPro-Black.ttf */; };
+		3E5630171F7DE30500C6413D /* CircularPro-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70504D8291FD4BA3B9076B6D /* CircularPro-Bold.ttf */; };
+		3E5630181F7DE30500C6413D /* CircularPro-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 003F8CA022BD4C009A744E5C /* CircularPro-Book.ttf */; };
+		3E5630191F7DE30500C6413D /* CircularPro-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B21A74B15D04EE5BF03AA6F /* CircularPro-Medium.ttf */; };
+		3E56301A1F7DE30600C6413D /* CircularPro-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66536AF7F0E44878B4478B5D /* CircularPro-Black.ttf */; };
+		3E56301B1F7DE30600C6413D /* CircularPro-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70504D8291FD4BA3B9076B6D /* CircularPro-Bold.ttf */; };
+		3E56301C1F7DE30600C6413D /* CircularPro-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 003F8CA022BD4C009A744E5C /* CircularPro-Book.ttf */; };
+		3E56301D1F7DE30600C6413D /* CircularPro-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B21A74B15D04EE5BF03AA6F /* CircularPro-Medium.ttf */; };
+		458229DD81034179AB6A5182 /* CircularPro-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66536AF7F0E44878B4478B5D /* CircularPro-Black.ttf */; };
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
+		9084E97B80FD4FF4A01B3C07 /* CircularPro-Book.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 003F8CA022BD4C009A744E5C /* CircularPro-Book.ttf */; };
+		C5EEC416F4204D3698B7D1CB /* CircularPro-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 70504D8291FD4BA3B9076B6D /* CircularPro-Bold.ttf */; };
+		D50B6D809604469B8D7DE04B /* CircularPro-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B21A74B15D04EE5BF03AA6F /* CircularPro-Medium.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -259,6 +275,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		003F8CA022BD4C009A744E5C /* CircularPro-Book.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularPro-Book.ttf"; path = "../assets/fonts/CircularPro-Book.ttf"; sourceTree = "<group>"; };
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
 		00C302A71ABCB8CE00DB3ED1 /* RCTActionSheet.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTActionSheet.xcodeproj; path = "../node_modules/react-native/Libraries/ActionSheetIOS/RCTActionSheet.xcodeproj"; sourceTree = "<group>"; };
 		00C302B51ABCB90400DB3ED1 /* RCTGeolocation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTGeolocation.xcodeproj; path = "../node_modules/react-native/Libraries/Geolocation/RCTGeolocation.xcodeproj"; sourceTree = "<group>"; };
@@ -281,6 +298,9 @@
 		2D02E47B1E0B4A5D006451C7 /* WTFJHT-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WTFJHT-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* WTFJHT-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "WTFJHT-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
+		66536AF7F0E44878B4478B5D /* CircularPro-Black.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularPro-Black.ttf"; path = "../assets/fonts/CircularPro-Black.ttf"; sourceTree = "<group>"; };
+		6B21A74B15D04EE5BF03AA6F /* CircularPro-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularPro-Medium.ttf"; path = "../assets/fonts/CircularPro-Medium.ttf"; sourceTree = "<group>"; };
+		70504D8291FD4BA3B9076B6D /* CircularPro-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "CircularPro-Bold.ttf"; path = "../assets/fonts/CircularPro-Bold.ttf"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -447,6 +467,17 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		40F0E8FEF98A418E99CE4D11 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				66536AF7F0E44878B4478B5D /* CircularPro-Black.ttf */,
+				70504D8291FD4BA3B9076B6D /* CircularPro-Bold.ttf */,
+				003F8CA022BD4C009A744E5C /* CircularPro-Book.ttf */,
+				6B21A74B15D04EE5BF03AA6F /* CircularPro-Medium.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		5E91572E1DD0AC6500FF2AA8 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -499,6 +530,7 @@
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* WTFJHTTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
+				40F0E8FEF98A418E99CE4D11 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -596,7 +628,7 @@
 		83CBB9F71A601CBA00E9B192 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 610;
 				ORGANIZATIONNAME = Facebook;
 				TargetAttributes = {
 					00E356ED1AD99517003FC87E = {
@@ -898,6 +930,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E562FF61F7DE30500C6413D /* CircularPro-Bold.ttf in Resources */,
+				3E562FF51F7DE30500C6413D /* CircularPro-Black.ttf in Resources */,
+				3E562FF81F7DE30500C6413D /* CircularPro-Medium.ttf in Resources */,
+				3E562FF71F7DE30500C6413D /* CircularPro-Book.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -907,6 +943,10 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				458229DD81034179AB6A5182 /* CircularPro-Black.ttf in Resources */,
+				C5EEC416F4204D3698B7D1CB /* CircularPro-Bold.ttf in Resources */,
+				9084E97B80FD4FF4A01B3C07 /* CircularPro-Book.ttf in Resources */,
+				D50B6D809604469B8D7DE04B /* CircularPro-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -915,6 +955,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */,
+				3E5630161F7DE30500C6413D /* CircularPro-Black.ttf in Resources */,
+				3E5630191F7DE30500C6413D /* CircularPro-Medium.ttf in Resources */,
+				3E5630181F7DE30500C6413D /* CircularPro-Book.ttf in Resources */,
+				3E5630171F7DE30500C6413D /* CircularPro-Bold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -922,6 +966,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3E56301B1F7DE30600C6413D /* CircularPro-Bold.ttf in Resources */,
+				3E56301A1F7DE30600C6413D /* CircularPro-Black.ttf in Resources */,
+				3E56301D1F7DE30600C6413D /* CircularPro-Medium.ttf in Resources */,
+				3E56301C1F7DE30600C6413D /* CircularPro-Book.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

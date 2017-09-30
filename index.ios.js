@@ -13,6 +13,7 @@ const View = styled.View`
 const Text = styled.Text`
   font-size: 96px;
   color: #323232;
+  font-family: "Baskerville";
 `;
 
 export default class App extends Component {
