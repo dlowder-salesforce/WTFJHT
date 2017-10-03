@@ -4,12 +4,13 @@
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
+    "bundle_ios": "node node_modules/react-native/local-cli/cli.js bundle --entry-file index.ios.js --platform ios --dev true --bundle-output index.ios.jsbundle",
     "test": "jest"
   },
   "dependencies": {
     "polished": "^1.7.0",
     "react": "16.0.0-alpha.12",
-    "react-native": "0.47.2",
+    "react-native": "0.48.4",
     "styled-components": "^2.2.0",
     "styled-system": "^1.0.2"
   },
